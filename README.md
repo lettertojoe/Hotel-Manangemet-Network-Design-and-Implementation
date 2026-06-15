@@ -29,5 +29,5 @@
 <ol>6. All devices in the network are expected to obtain IP addresses dynamically with their respective router configured as the DHCP server. </ol>
 </p>
   <h4>Topology</h4>
-  <img src="images\ping and dhcp.png" alt="ping">
+  <img src="images\Hotel Network Design and Implementation" alt="ping">
   <p> 
