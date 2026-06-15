@@ -27,11 +27,7 @@
 •	IT – VLAN 10, Network of 192.168.1.0/24 </li>
 </ol>
 <ol>6. All devices in the network are expected to obtain IP addresses dynamically with their respective router configured as the DHCP server. </ol>
-<ol></ol>
-<ol></ol>
-<ol></ol>
-<ol></ol>
-<ol></ol>
-
-
 </p>
+  <h4>Topology</h4>
+  <img src="images\ping and dhcp.png" alt="ping">
+  <p> 
